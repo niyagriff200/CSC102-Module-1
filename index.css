@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(blue, white);
+}
+
+h1 {
+    text-align: center;
+    color:crimson
+}
+
+#spooky {
+    color: orange;
+}
+
+#presents {
+    color:aliceblue
+}
+
+#hearts {
+    color: pink
+}
+
+#pranks {
+    color:green
+}
+
+p {
+    color: darkred;
+}
